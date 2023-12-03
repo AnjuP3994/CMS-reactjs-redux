@@ -1,0 +1,6 @@
+.number{
+    font-family: 'Roboto Slab', serif;
+}
+.c-card:hover{
+    box-shadow: rgba(0, 0, 0, 0.599) 2px 2px 5px 4px;
+}
